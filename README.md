@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UKaoriU
-- 👀 I’m interested in coding programs to finds colors in pinctures automaticly
-- 🌱 I’m currently learning Phython
-- 💞️ I’m looking to collaborate on projects that links coding whith marketing or art.
+- 👀 I’m coding a program to find colors in pinctures automatically
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects related to art marketing
 - PD: I´m also an Artist
 
 <!---
