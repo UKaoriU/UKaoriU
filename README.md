@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UKaoriU
-- 👀 I’m interested in coding programs to finds colors in pinctures automaticly
-- 🌱 I’m currently learning Phython
-- 💞️ I’m looking to collaborate on projects that links coding whith marketing or art.
-- PD: I´m also create art UwU
+- 👀 I’m coding a program to find colors in pinctures automatically
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects related to art marketing
+- PD: I´m also an Artist
 
 <!---
 UKaoriU/UKaoriU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
